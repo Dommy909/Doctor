@@ -1,0 +1,22 @@
+# Python/Django
+*.pyc
+__pycache__/
+*.log
+db.sqlite3
+.env
+
+# PyCharm
+.idea/
+*.iml
+
+# Virtualenv
+venv/
+env/
+
+# Static/media
+/staticfiles/
+/media/
+
+# System files
+.DS_Store
+Thumbs.db
